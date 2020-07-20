@@ -3,6 +3,7 @@
 lsccpu
 nproc
 cat /etc/*-release
+uname -r
 
 if
  [ $UID -ne 0  ]
