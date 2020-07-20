@@ -11,4 +11,8 @@ then
 
  echo "You are the root user"
 
+else
+
+ echo "You are not the root user, please login as root"
+
 fi
