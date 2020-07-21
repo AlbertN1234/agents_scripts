@@ -1,4 +1,6 @@
 #!/bin/bash
+#author:Albert
+#date: july 2020
 
 lsccpu
 nproc
